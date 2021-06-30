@@ -4,7 +4,7 @@ const CONFIG = {
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'Anh yêu em',
+    btnIntro: 'Click vô đây nhaa',
     title: 'Mình đừng giận nhau nữa nhà em ',
     desc: 'Anh cũng k thích 2 đứa như này , e mạnh mẽ lên và tha thứ cho a nhé !! ',
     btnYes: 'Em đồng ý <33',
@@ -15,5 +15,5 @@ const CONFIG = {
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Anh yêu em nhiều lắm hẹn em gặp nhau trên HN nhaa',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/messages/t/100007692971892'
+    messLink: 'https://www.facebook.com/messages/t/100026391503351'
 }
